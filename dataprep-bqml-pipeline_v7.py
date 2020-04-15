@@ -30,7 +30,7 @@ default_args = {
     'owner': 'Alex Osterloh',
     'depends_on_past': False,
     'start_date': seven_days_ago,
-    'email': ['aosterloh@google.com'],
+    'email': ['a....@google.com'],
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 0,
